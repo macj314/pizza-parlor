@@ -1,0 +1,64 @@
+body{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+hr{
+  border: 1px inset cornflowerblue;
+}
+
+#header{
+  border: cornflowerblue;
+  background: cornflowerblue;
+  padding: 2%;
+  text-align: center;
+}
+
+#title{
+  position: absolute;
+  top: 15%;
+  left: 32%;
+  width: 32%;
+  text-align: center;
+}
+
+#container-form{
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
+}
+
+#hr-left{
+float: left;  
+width: 10%;
+margin-left: 2%;
+}
+
+#hr-right{
+  float: right;  
+  width: 10%;
+  margin-right: 2%;
+}
+
+#div-toppings{
+  text-align: center;
+  margin: 2%;
+}
+
+#div-size{
+  margin: 2%;
+}
+
+#submit{
+  margin: 2%;
+}
+
+#output{
+  border: 1px inset cornflowerblue;
+  width: 200px;
+  height: 100px;
+  text-align: center;
+}
